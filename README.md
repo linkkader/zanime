@@ -55,3 +55,8 @@ Zanime is just a tool to scrape free anime website using jsoup and play video co
 * ExoPlayer
 * [Picasso](https://square.github.io/picasso/)
 * [Webview Video Fullscreen](https://github.com/RachitShah02/Webview-Video-Fullscreen)
+
+<p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="meta/toppng.com-discord-logo-png-transparent-graphic-discord-494x295.png"/> </p> 
+
+
+
