@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">20</dimen>
+    <dimen name="posterh">186dp</dimen>
+    <dimen name="poster_w">110dp</dimen>
+    <dimen name="poster_margin_left">10dp</dimen>
+    <dimen name="poster_margin_right">10dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="watchlistsize">34dp</dimen>
+    <dimen name="season_poster_w">200dp</dimen>
+    <dimen name="season_poster_h">300dp</dimen>
+    <dimen name="anime_h">200dp</dimen>
+    <dimen name="titleSize">20sp</dimen>
+</resources>
