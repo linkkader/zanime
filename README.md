@@ -3,9 +3,7 @@
 <h4 align="center">An Android app to watch anime on your phone</h4>
 <p align="center">
 <hr>
-## Screenshots
 
-[<img src="meta/android/screenshots/screenshot_01.jpg" width=160>](meta/1.png)
 
 ## Description
 
