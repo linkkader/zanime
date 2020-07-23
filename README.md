@@ -1,6 +1,7 @@
 <p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="https://github.com/linkkader/zanime/blob/master/app/src/main/res/drawable/logo.png"/> </p> 
 <p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="https://github.com/linkkader/zanime/blob/master/.idea/download%20(2).png"/> </p> 
 <h4 align="center">An Android app to watch anime on your phone</h4>
+<h4 align="center" href="https://rebrand.ly/linkkaderdiscord">Join Discord</h4>
 <p align="center">
 <hr>
 
@@ -25,6 +26,7 @@ Zanime is just a tool to scrape free anime website using jsoup and play video co
 
 ## Source List
 
+* [Join Our Discord](https://rebrand.ly/linkkaderdiscord)
 * [Gogoanime](http://gogoanime.tv/)
 * [Animedao](https://animedao.com/)
 * [Voiranime](http://voiranime.com/)
@@ -38,6 +40,7 @@ Zanime is just a tool to scrape free anime website using jsoup and play video co
 
 ## Features
 
+* [Join Our Discord](https://rebrand.ly/linkkaderdiscord)
 * Resume Episode Support
 * Active/Desactive Source
 * Multiple Source
@@ -51,12 +54,13 @@ Zanime is just a tool to scrape free anime website using jsoup and play video co
 * Auto Quality for Video Playback
 
 ## Dependencies used
+
+* [Join Our Discord](https://rebrand.ly/linkkaderdiscord)
 * Kotlin
 * ExoPlayer
 * [Picasso](https://square.github.io/picasso/)
 * [Webview Video Fullscreen](https://github.com/RachitShah02/Webview-Video-Fullscreen)
 
-<p align = "center" href="https://rebrand.ly/linkkaderdiscord"><img src="meta/toppng.com-discord-logo-png-transparent-graphic-discord-494x295.png"/> </p> 
 
 
 
