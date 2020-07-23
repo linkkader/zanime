@@ -49,3 +49,9 @@ Zanime is just a tool to scrape free anime website using jsoup and play video co
 * Watch Progress
 * Add To Favourites
 * Auto Quality for Video Playback
+
+## Dependencies used
+* Kotlin
+* ExoPlayer
+* [Picasso](https://square.github.io/picasso/)
+* [Webview Video Fullscreen](https://github.com/RachitShah02/Webview-Video-Fullscreen)
