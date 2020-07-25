@@ -1,5 +1,8 @@
-<p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="https://github.com/linkkader/zanime/blob/master/app/src/main/res/drawable/logo.png"/> </p> 
-<p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img  href="https://rebrand.ly/linkkaderzanime" src="https://github.com/linkkader/zanime/blob/master/.idea/download%20(2).png"/> </p> 
+<p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="https://github.com/linkkader/zanime/blob/master/app/src/main/res/drawable/logo.png"> </p> 
+
+<p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk" alt="GitHub release"><img  href="https://rebrand.ly/linkkaderzanime" src="https://github.com/linkkader/zanime/blob/master/.idea/download%20(2).png"/> </p> 
+
+
 <h4 align="center">An Android app to watch anime on your phone</h4>
 <h4 align="center" href="https://rebrand.ly/linkkaderdiscord">Join Discord</h4>
 <p align="center">
