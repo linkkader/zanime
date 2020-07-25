@@ -1,7 +1,7 @@
 <p align = "center" href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk"><img src="https://github.com/linkkader/zanime/blob/master/app/src/main/res/drawable/logo.png"> </p> 
 
 <p align = "center">
-  <img  href="https://github.com/linkkader/zanime/releases/download/1/zanime.apk" alt="GitHub release"  href="https://rebrand.ly/linkkaderzanime" src="https://github.com/linkkader/zanime/blob/master/.idea/download%20(2).png"/> 
+  <a href="https://github.com/mukul500/AnimeXStream" alt="GitHub release"><img src="https://img.shields.io/badge/version-0.2.0-blue.svg" ></a>
 </p> 
 
 
