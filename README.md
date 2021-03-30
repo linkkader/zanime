@@ -1,4 +1,4 @@
-<p align = "center" href="https://play-lh.googleusercontent.com/VrG9gVafU3OalmAufcMpW6Q9oJcxJys4GWOItkZG8eMvgZR1lu7eqQ5pLKkOx6rmAIKi"><img src="https://github.com/linkkader/zanime/blob/master/app/src/main/res/drawable/logo.png"> </p> 
+<p align = "center" href="https://play-lh.googleusercontent.com/VrG9gVafU3OalmAufcMpW6Q9oJcxJys4GWOItkZG8eMvgZR1lu7eqQ5pLKkOx6rmAIKi"><img src="https://play-lh.googleusercontent.com/VrG9gVafU3OalmAufcMpW6Q9oJcxJys4GWOItkZG8eMvgZR1lu7eqQ5pLKkOx6rmAIKi"> </p> 
 
 <p align = "center">
   <a href="https://rebrand.ly/linkkaderzanime" alt="GitHub release"><img src="https://github.com/linkkader/zanime/blob/master/.idea/download%20(2).png" ></a>
